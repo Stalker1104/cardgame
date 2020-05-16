@@ -30,7 +30,7 @@ var index_bot_1;
 var matrix_do=true
 var kombination_power_counter_p=0;
 var last_komb="undefined"
-var automaticli_enter=true
+var automaticli_enter=false
 var card_in_hand_1 = {
     masty:"chervi1",
     power:10
